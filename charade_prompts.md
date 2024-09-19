@@ -8,4 +8,4 @@ A1: Creating a “function”\
 A1: Chaining “promises”\
 A1: “Catching an error”\
 A1: Typing “document.getElementById”\
-A1: Writing “arrow functions”\
+A1: Writing “arrow functions”
